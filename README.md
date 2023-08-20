@@ -11,8 +11,6 @@ Welcome to the Concert Booking API documentation! This API allows users to searc
   - [Endpoints](#endpoints)
   - [Examples](#examples)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
